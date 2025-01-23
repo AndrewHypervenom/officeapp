@@ -5,7 +5,7 @@ Office Shortcuts es una aplicación web elegante diseñada para ayudarte a domin
 
 ### 🌐 Demo en Vivo: [Office App](https://officeapp-xi.vercel.app "Office App")
 
-![officeapp](https://github.com/user-attachments/assets/f4d73edf-a065-42a7-b5f6-1336907a1ec0)
+![officeapp](https://github.com/user-attachments/assets/a72a0835-3402-43cf-ae03-2645c87b8015)
 
 
 ------------
